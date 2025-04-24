@@ -1,4 +1,4 @@
-  /* const createTabs = () => {
+    const createTabs = () => {
     const content = document.querySelector('#content');
 
     const div1 = document.createElement('div');
@@ -30,7 +30,9 @@
     
     
     div3.addEventListener('click', () => {
-        createcontentPage();
+        createcontactPage();
     });
 
 };
+
+export default createTabs;

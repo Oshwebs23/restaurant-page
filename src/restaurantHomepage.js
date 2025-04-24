@@ -12,12 +12,14 @@ const createRestaurantHomePage = () => {
     image.src = 'https://www.dreamstime.com/royalty-free-stock-image-cozy-restaurant-tables-ready-dinner-image39875776'
     image.height = '250';
     pageContent.appendChild(image);
+    content.appendChild(image);
 
     // create and append headline element
 
     const headline = document.createElement('h1');
     headline.textContent = 'Welcome to The Odin Restaurant';
     pageContent.appendChild(headline);
+    content.appendChild(headline);
 
     //create and appened 'p' element 
 
