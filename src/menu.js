@@ -1,4 +1,5 @@
-const createMenupage = () => {
+
+const createMenuPage = () => {
     const content = document.querySelector("#content");
     const pageContent = document.createElement('div');
     pageContent.classList.add('page-content');
@@ -24,4 +25,4 @@ const createMenupage = () => {
 
 };
 
-export default createMenupage();
+export default createMenuPage;

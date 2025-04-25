@@ -1,3 +1,4 @@
+
 const contactPage = () => {
     const content = document.querySelector("#content");
     const pageContent = document.createElement('div');

@@ -9,7 +9,7 @@ const createRestaurantHomePage = () => {
     // create and append image element
 
     const image = document.createElement('img');
-    image.src = 'https://www.dreamstime.com/royalty-free-stock-image-cozy-restaurant-tables-ready-dinner-image39875776'
+    image.src = 'https://thumbs.dreamstime.com/b/cozy-restaurant-tables-ready-dinner-39875776.jpg?w=992'
     image.height = '250';
     pageContent.appendChild(image);
     content.appendChild(image);
