@@ -2,7 +2,7 @@
 const createMenuPage = () => {
     const content = document.querySelector("#content");
     const pageContent = document.createElement('div');
-    pageContent.classList.add('page-content');
+    content.classList.add('menucontent');
 
     const menuHeading = document.createElement('h2');
     menuHeading.textContent = 'The Menu';
