@@ -4,6 +4,10 @@ const contactPage = () => {
     const pageContent = document.createElement('div');
     pageContent.classList.add('page-content');
 
+    const title = document.createElement('p');
+    pageContent.textContent = 'Please submit your details to get in touch!';
+    pageContent.appendChild(title);
+
     const form = document.createElement('form');
     form.classList.add('contact-form');
 

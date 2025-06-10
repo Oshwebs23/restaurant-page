@@ -10,7 +10,7 @@ const createRestaurantHomePage = () => {
 
     const image = document.createElement('img');
     image.src = 'https://thumbs.dreamstime.com/b/cozy-restaurant-tables-ready-dinner-39875776.jpg?w=992'
-    image.height = '250';
+    image.height = '450';
     pageContent.appendChild(image);
     content.appendChild(image);
 
