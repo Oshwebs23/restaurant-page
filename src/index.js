@@ -1,4 +1,6 @@
-import pageLoad from "./pageLoad";
+import pageload from "./pageload.js";
 
 
-pageLoad();
+
+
+pageload();

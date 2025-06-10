@@ -9,15 +9,17 @@ const createRestaurantHomePage = () => {
     // create and append image element
 
     const image = document.createElement('img');
-    image.src = 'https://www.dreamstime.com/royalty-free-stock-image-cozy-restaurant-tables-ready-dinner-image39875776'
-    image.height = '250';
+    image.src = 'https://thumbs.dreamstime.com/b/cozy-restaurant-tables-ready-dinner-39875776.jpg?w=992'
+    image.height = '450';
     pageContent.appendChild(image);
+    content.appendChild(image);
 
     // create and append headline element
 
     const headline = document.createElement('h1');
     headline.textContent = 'Welcome to The Odin Restaurant';
     pageContent.appendChild(headline);
+    content.appendChild(headline);
 
     //create and appened 'p' element 
 
