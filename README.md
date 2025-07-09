@@ -1,1 +1,1 @@
-This is a project completed as part of The Odin Project. Here I was tasked in creating a website utilizing Webpack knoweledge and tabbed browsing. The project, although commited, is ongping and will be updated with further features in due course. 
+This is a project completed as part of The Odin Project. Here I was tasked in creating a website utilizing Webpack knoweledge and tabbed browsing. The project, although commited, is ongoing and will be updated with further features in due course. 
